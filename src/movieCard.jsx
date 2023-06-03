@@ -1,6 +1,7 @@
 import React from "react"
 
 const MovieCard = ({ movie }) => {
+    // single movie card/tile
     return (
         <div className="movie">
             <div>
